@@ -1,0 +1,23 @@
+name: BareFiction
+favicon: null
+layout_spectrum: 0.2792276185937226
+typography_spectrum: 0.23604145389981568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9949076466728002
+  lightness: 0.049279105151072145
+  saturation: 0.623738344758749
+  rhythmicContrast: 0.06608382146805525
+purpose: []
